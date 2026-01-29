@@ -1,0 +1,22 @@
+#title{
+    color: burlywood;
+    text-align: center;
+    padding: 20px;
+    background-color: gray;
+    
+    
+}
+.box1 h2{
+    float: left;
+}
+.box1 button{
+    float: right;
+    
+}
+.container{
+    margin-top: 50px;
+}
+.header{
+    color: green;
+    text-align: center;
+}
